@@ -1,4 +1,4 @@
-# 2025 Spring Schedule Visualizer
+# python 课程表生成器 schedule
 
 This project provides a visual representation of the class schedules. It uses Python and Matplotlib to create a graphical week-by-week view that helps visualize when and where classes take place.
 
