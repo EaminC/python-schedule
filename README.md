@@ -37,7 +37,7 @@ python schedule_visualizer.py
 
 Here is what the schedule visualization looks like:
 
-<img width="1434" alt="image" src="https://github.com/user-attachments/assets/133d0b0a-1bee-4a89-bb93-bcdc419e3dc5" />
+<img width="983" alt="image" src="https://github.com/user-attachments/assets/e2df1f14-affe-4174-b60b-5707fc6a6b08" />
 
 
 
